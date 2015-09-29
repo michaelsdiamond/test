@@ -1,5 +1,5 @@
 abcdefg
 hijklmnop
 qrs
-tUV
-wxyz
+tuv
+wxy&z
